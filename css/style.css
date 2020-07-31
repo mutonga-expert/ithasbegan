@@ -1,0 +1,16 @@
+
+h1{
+	color:red; 
+}
+body{
+	font: normal 16px Arial,helvetica,sans-serif;
+    width:80%;
+
+
+.my-form{
+		pdding-bottom:i5px;
+	}
+.form-group{
+	padding-bottom:15px;
+	display:block; 
+}
